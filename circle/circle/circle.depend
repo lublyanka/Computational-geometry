@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1350113865 source:c:\projects\circle\circle\main.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+

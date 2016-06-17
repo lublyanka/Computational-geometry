@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1350128297 source:c:\projects\cross2circle\cross2circle\main.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<float.h>
+

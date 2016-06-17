@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1350113581 source:c:\projects\ine2point\line2point\main.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+

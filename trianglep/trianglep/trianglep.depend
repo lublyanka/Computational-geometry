@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1350326126 source:c:\projects\trianglep\trianglep\main.cpp
+	<stdio.h>
+	<math.h>
+	<float.h>
+

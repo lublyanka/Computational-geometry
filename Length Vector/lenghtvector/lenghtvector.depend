@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1350113008 source:c:\projects\length vector\lenghtvector\main.cpp
+	<stdio.h>
+	<math.h>
+

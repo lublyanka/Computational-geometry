@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1350136750 source:c:\projects\kolpak\kolpak\main.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+

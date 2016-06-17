@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1350119589 source:c:\projects\multipvector\multipvector\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+

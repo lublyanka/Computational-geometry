@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1352399882 source:c:\projects\towns\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits>
+	<algorithm>
+
